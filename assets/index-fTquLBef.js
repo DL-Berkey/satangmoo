@@ -274,7 +274,7 @@ Error generating stack: `+s.message+`
     display: grid;
     place-content: center;
 
-    height: 100%;
+    height: 91vh;
 
     padding-bottom: 10%;
 `,vA=Se.img`
@@ -483,7 +483,7 @@ Error generating stack: `+s.message+`
     display: none;
     place-content: center;
 
-    height: 100%;
+    height: 83vh;
 
     ${vP}
 
